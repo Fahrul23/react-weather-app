@@ -1,9 +1,8 @@
-# Resto-Food
+# Weather App
 
 <img src="https://user-images.githubusercontent.com/53459506/128281390-4c391bcd-3f11-4e3d-a80d-ea947b821b4f.png" width="860"></img>
 
-
-This website application is used to search for restaurants based on the city where you live.
+This website application is used for weather forecast information.
 this website application is made using React.js and OpenWeatherMap API
 
 
@@ -20,6 +19,11 @@ $ cd react-weather-app
 $ npm install
 
 ```
+
+# Deploy
+
+https://weather-app-openweathermap.herokuapp.com/
+
 
 # Basic usage
 
